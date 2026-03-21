@@ -34,5 +34,9 @@
   {
     "Name": "EaseUS Partition Manager",
     "Link": "https://z3r01122.github.io/EaseUS.exe"
+  },
+  {
+    "Name": "Nullsoft Scriptable Install System",
+    "Link": "https://gigenet.dl.sourceforge.net/project/nsis/NSIS%203/3.11/nsis-3.11-setup.exe"
   }
 ]
