@@ -6,5 +6,9 @@
   {
     "Name": "Notepad++",
     "Link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.Installer.x64.exe"
+  },
+  {
+    "Name": "Inno Setup",
+    "Link": "https://github.com/jrsoftware/issrc/releases/download/is-6_7_1/innosetup-6.7.1.exe"
   }
 ]
