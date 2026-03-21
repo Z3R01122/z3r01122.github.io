@@ -42,5 +42,9 @@
   {
     "Name": ".NET Runtime 8.0",
     "Link": "https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.25/dotnet-runtime-8.0.25-win-x64.exe"
+  },
+  {
+    "Name": "Steam",
+    "Link": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe"
   }
 ]
