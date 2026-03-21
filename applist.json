@@ -38,5 +38,9 @@
   {
     "Name": "Nullsoft Scriptable Install System",
     "Link": "https://gigenet.dl.sourceforge.net/project/nsis/NSIS%203/3.11/nsis-3.11-setup.exe"
+  },
+  {
+    "Name": ".NET Runtime 8.0",
+    "Link": "https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.25/dotnet-runtime-8.0.25-win-x64.exe"
   }
 ]
