@@ -1,5 +1,8 @@
-
 [
+  {
+    "Name": "64-bit only at the moment. Thank you for understanding.",
+    "Link": "https://aka.ms"
+  },
   {
     "Name": "Visual Studio 2022 Community",
     "Link": "https://aka.ms/vs/17/release/vs_community.exe"
