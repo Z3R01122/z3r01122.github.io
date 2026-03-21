@@ -15,5 +15,9 @@
   {
     "Name": "Google Chrome",
     "Link": "https://dl.google.com/update2/installers/ChromeSetup.exe"
+  },
+  {
+    "Name": "7-Zip"
+    "Link": "https://www.7-zip.org/a/7z2600-x64.exe"
   }
 ]
