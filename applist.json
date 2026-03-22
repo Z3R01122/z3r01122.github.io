@@ -1,50 +1,62 @@
 [
   {
     "Name": "64-bit only at the moment. Thank you for understanding.",
+    "Description": "This app store currently supports only 64-bit Windows applications.",
     "Link": "https://aka.ms"
   },
   {
     "Name": "Visual Studio 2022 Community",
+    "Description": "Microsoft's free IDE for building C#, C++, and .NET applications. Includes debugging, UI designers, and package tools.",
     "Link": "https://aka.ms/vs/17/release/vs_community.exe"
   },
   {
     "Name": "Notepad++",
+    "Description": "Lightweight code and text editor with syntax highlighting, plugins, and multi-tab editing.",
     "Link": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.2/npp.8.9.2.Installer.x64.exe"
   },
   {
     "Name": "Inno Setup",
+    "Description": "Script-driven installer creator used to build Windows setup executables.",
     "Link": "https://github.com/jrsoftware/issrc/releases/download/is-6_7_1/innosetup-6.7.1.exe"
   },
   {
     "Name": "Google Chrome",
+    "Description": "Popular Chromium-based web browser with fast performance and extension support.",
     "Link": "https://dl.google.com/update2/installers/ChromeSetup.exe"
   },
   {
     "Name": "7Zip",
+    "Description": "Open source file archiver with high compression ratios and support for many formats.",
     "Link": "https://www.7-zip.org/a/7z2600-x64.exe"
   },
   {
     "Name": "WinRAR",
+    "Description": "File compression and archive manager supporting RAR, ZIP, and many other formats.",
     "Link": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-720.exe"
   },
   {
     "Name": "Windows XP Keygen. This is not a ransomware, Windows Defender is lying.",
+    "Description": "Utility that generates valid product keys for Windows XP installations.",
     "Link": "https://github.com/Endermanch/XPKeygen/releases/download/v2.7/XPKeygen.exe"
   },
   {
     "Name": "EaseUS Partition Manager",
+    "Description": "Disk partition management tool for resizing, creating, deleting, and cloning partitions.",
     "Link": "https://z3r01122.github.io/EaseUS.exe"
   },
   {
     "Name": "Nullsoft Scriptable Install System",
+    "Description": "Open source system used to create professional Windows installers using scripts.",
     "Link": "https://gigenet.dl.sourceforge.net/project/nsis/NSIS%203/3.11/nsis-3.11-setup.exe"
   },
   {
     "Name": ".NET Runtime 8.0",
+    "Description": "Runtime required to run applications built with the .NET 8 framework.",
     "Link": "https://builds.dotnet.microsoft.com/dotnet/Runtime/8.0.25/dotnet-runtime-8.0.25-win-x64.exe"
   },
   {
     "Name": "Steam",
+    "Description": "Valve's gaming platform for purchasing, downloading, and launching PC games.",
     "Link": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe"
   }
 ]
